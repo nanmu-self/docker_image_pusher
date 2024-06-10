@@ -1,2 +1,5 @@
-alpine
-lanol/filecodebox
+whyour/qinglong
+synctvorg/synctv
+xhofe/alist
+lobehub/lobe-chat
+linuxserver/calibre-web
