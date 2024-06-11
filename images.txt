@@ -1,1 +1,1 @@
-mtphotos/mt-photos
+xhofe/alist-aria2:main
